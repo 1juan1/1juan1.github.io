@@ -1,0 +1,114 @@
+#map {
+  height: 450px;
+  border-radius: 25px;
+}
+
+.main {
+  background-color: rgba(34, 55, 71, 0.8);
+  border-radius: 25px;
+  margin-left: 10%;
+  margin-right: 10%;
+  min-height: 350px;
+  padding: 25px;
+  color: #add4ff;
+  font-family: "Poppins";
+  font-size: 16px;
+  margin-top: 5%;
+}
+
+body {
+background-color: #404040; 
+    
+    margin: 0;
+    padding: 0;
+
+}
+
+h1 {
+ text-align: center;
+    font-size: 45px;
+    color: white;
+     font-family: 'Black Han Sans', sans-serif;
+}
+ a{
+  color: white;
+     text-decoration: none;
+ }
+
+.pics{
+ pixels: 20;
+border-radius: 10px;
+
+}
+
+h1{
+margin-left: 0;
+padding-left: 0;
+text-align: center;
+background-color: #3385ff;
+padding: 25px;
+margin: 0;
+
+}
+
+#nav-bar {
+background-color: #b3d1ff;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Black Han Sans', sans-serif;
+    
+}
+
+
+
+
+.item{
+padding-left: 50px;
+padding-right: 50px;
+}
+
+ul{
+list-style: none;
+}
+
+p{
+
+text-align: left;
+color: White;
+padding-left: 5%;
+padding-right: 5%;
+font-family: 'Black Han Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+object{
+display: block;
+margin-left:auto;
+    margin-right: auto;
+}
+
+.container {
+display: flex;
+margin-left: 10%;
+margin-right: 10%;
+}
+
+.column{
+flex:1;
+margin: 5%;
+
+}
+
+#app {
+width: 275px;
+height: 183px;
+margin-top: 50px;
+}
+
+#me {
+width: 200px;
+height:200px;
+}
+
+
+
